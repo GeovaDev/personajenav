@@ -14,7 +14,7 @@
 |-|-|-|-|
 |ESP32|Microcontrolador con 30 pines con comunicación WiFi y Bluetooth|1|$ 140|
 |Cables Dupont|Cables para conexión de prototipos|50|$ 60|
-|Servomotor|Motor que permite movimientos precisos y controlados.|3|$ 60|
+|Servomotor|Motor que permite movimientos precisos y controlados.|2|$ 120|
 |Impresión en papel|Impresión del personaje en papel estilo Papercraft|2|$ 20|
 |Sensor de proximidad|Detecta movimiento o proximidad|1|$ 50|
 |Altavoz|Emite el sonido|1|$ 50|
