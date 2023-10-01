@@ -1,9 +1,9 @@
 # Personaje navideño
 
 ## Datos del Alumno:
-Nombre: José Geovanni Rubio Rincón
-Grupo: GDS0541
-Número de control: 1222100469
+**Nombre:** José Geovanni Rubio Rincón  
+**Grupo:** GDS0541  
+**Número de control:** 1222100469
 
 ## Nombre del personaje: 
   Niño pastor con flauta
